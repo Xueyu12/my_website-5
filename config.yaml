@@ -1,0 +1,112 @@
+baseURL: http://shirleywan1998.netlify.app/
+languageCode: en-us
+title: Forty
+theme: forty
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  banner:
+    buttonText: Get Started
+    subtitle: |-
+      Welcome to my website!
+    title: Hi, my name is shirley Wan
+  blog: {}
+  contact:
+    address:
+      - city: London
+        country: UK
+        street: Paveley Street
+        title: Address
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: swan.mfa2022@london.edu
+        title: Email
+    enable: yes
+    phone:
+      - phone: (44)07536337575
+        title: Phone
+  custom_css: []
+  custom_js: []
+  description: Your description
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+  favicon: favicon.ico
+  footer:
+    #copyright: Company Name
+    #enable: yes
+    #quicklinks:
+    #  - alt: HTML5 UP
+    #    text: 'Design: '
+    #    url: https://www.html5up.net
+    social:
+      #- icon: fa-twitter
+       # label: Twitter
+        #url: https://www.twitter.com
+      #- icon: fa-facebook
+       # label: Facebook
+        #url: https://www.facebook.com
+      #- icon: fa-instagram
+       # label: Instagram
+        #url: https://www.instagram.com
+      - icon: fa-github
+        label: GitHub
+        url: https://https://github.com/Xueyu12/
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: https://www.linkedin.com/in/shirley-wan-221812152/?originalSubdomain=cn/
+  image: ''
+  name: Your name
+  navigation:
+    button1:
+      - name: Get Started
+        url: blogs
+    button2:
+      - name: Log In
+        url: '#'
+    links:
+      - name: Home
+        url: '#'
+      - name: Blogs
+        url: blogs
+     # - name: Generic Blog
+      #  url: blogs/ipsum
+      #- name: Elements
+      #  url: elements.html
+    menu: Menu
+    subtitle: By HTML5 Up
+    title: Forty
+  tiles:
+    enable: yes
+    showcase:
+      - image: aboutme.jpg
+        subtitle: Learn something about me
+        title: Shirley Wan
+        url: blogs/aboutme
+      - image: sz01.jpg
+        subtitle: Traditonal Jiangnan Water Town
+        title: Journey in Suzhou
+        url: blogs/suzhou
+      - image: resume.jpg
+        subtitle: My working experience
+        title: Resume
+        url: blogs/resume
+      - image: canada.jpg
+        subtitle: London, Toronto, Montreal, Quebec, Vancuvour
+        title: Exchange in Canada
+        url: blogs/canada
+      #- image: pic05.jpg
+       # subtitle: Ipsum Dolor Sit Amet
+        #title: Consequat
+        #url: blogs/ipsum
+      #- image: pic06.jpg
+       # subtitle: Feugiat Amet Tempus
+        #title: Etiam
+        #url: blogs/ipsum
+  two:
+    buttonText: Get Started
+    enable: yes
+    subtitle: "Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird. Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein."
+    title: NEED NOT TO KNOW
+    url: blogs
